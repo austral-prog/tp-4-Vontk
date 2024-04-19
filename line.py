@@ -9,8 +9,8 @@ def line():
 	diferencia_y=y2-y1
 	diferencia_x=x2-x1
 	distancia=math.sqrt(diferencia_x ** 2 + diferencia_y ** 2)
-	print(f"(El coeficiente A de su ecuación de la recta es: {CA}")
-	print(f"(El coeficiente B de su ecuación de la recta es: {CB}")
+	print(f"El coeficiente A de su ecuación de la recta es: {CA}")
+	print(f"El coeficiente B de su ecuación de la recta es: {CB}")
 	print(f"El coeficiente X1 de su ecuación de la recta es: {x1}")
 	print(f"El coeficiente X2 de su ecuación de la recta es: {x2}")
 	print("")
