@@ -1,8 +1,8 @@
 def line():
-	CA=float(input(Ingrese el coeficiente A))
-	CB=float(input(Ingrese el coeficiente B))
-	x1=float(input(Ingrese el punto X1))
-	x2=float(input(Ingrese el punto X2))
+	CA=float(input("Ingrese el coeficiente A"))
+	CB=float(input("Ingrese el coeficiente B"))
+	x1=float(input("Ingrese el punto X1"))
+	x2=float(input("Ingrese el punto X2"))
 	import math
 	y1=(x1*CA+CB)
 	y2=(x2*CA+CB)
